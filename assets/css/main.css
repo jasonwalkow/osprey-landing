@@ -70,7 +70,7 @@ button:hover {
 .btn-common {
   background: #64DD17;
   color: #fff;
-  border-bottom: 5px solid #0092ad;
+  border-bottom: 5px solid #64DD17;
 }
 .btn-common:hover {
   background: rgba(0, 211, 249, 0.7);
