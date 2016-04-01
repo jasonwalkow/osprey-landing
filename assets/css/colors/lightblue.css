@@ -201,11 +201,11 @@ a:hover{
 	border-color: #64DD17;
 }
 .btn-danger:hover,.btn-danger:active, .btn-danger.active, .open > .dropdown-toggle.btn-danger{
-	background-color: #0DC2E3;
-	border-color: #0DC2E3;
+	background-color: #64DD17;
+	border-color: #64DD17;
 }
 .page-header .page-header-inner:before{
-	background-color: #0DC2E3!important;
+	background-color: #64DD17!important;
 	opacity: 0.2;
 }
 /*  Mobile menu */
